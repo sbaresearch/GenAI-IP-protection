@@ -1,4 +1,4 @@
-# U Can't Gen This? :sunglasses: A Survey of Intellectual Property Protection Methods for Data in Generative AI
+# U Can't Gen This? :sunglasses: A Survey of Intellectual Property Protection Methods for Data in Generative AI [[ArXiv preprint](https://arxiv.org/abs/2406.15386)]
 
 ## Overview
 This repository contains a collection of methods for intellectual property protection for data in GAI. As the field continuously grows and lacks unified terminology and classification, we propose the taxonomy for these methods.
