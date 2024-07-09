@@ -4,7 +4,7 @@
 This repository contains a collection of methods for intellectual property protection for data in GAI. As the field continuously grows and lacks unified terminology and classification, we propose the taxonomy for these methods.
 \
 \
-![taxonomy](./figures/taxonomy-github.drawio.png)
+![taxonomy](./figures/taxonomy-github-drawio.png)
 
 :construction_worker: Work in progress.
 
